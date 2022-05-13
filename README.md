@@ -64,3 +64,4 @@ Solana Pay is open source and available under the Apache License, Version 2.0. S
 
 ![Solana Pay](solana-pay.png)
 # chicpay
+# chicpay
